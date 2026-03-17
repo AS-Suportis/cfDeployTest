@@ -1,0 +1,630 @@
+#2026 03 17 13:49:02.114#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:02.458303] Added process: "web" (STDOUT, API)#
+#2026 03 17 13:49:02.114#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:02.465994] Created app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:49:02.114#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:02.568413] Updating process: "web" (STDOUT, API)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:02.640706] Scaling process: "web" (STDOUT, API)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:38.674347] Uploading app package for app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:38.936905] Updated app with guid 0f5b824e-db22-40f0-abab-31460280faf8 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:52.357632] Creating build for app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:52.690864] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:52.719476] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:52.719552] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 creating container for instance e74742c3-6c5d-488b-af97-38421e9d99c6 (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:53.722722] Security group rules were updated (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:53.819080] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 successfully created container for instance e74742c3-6c5d-488b-af97-38421e9d99c6 (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:54.129754] Downloading app package... (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:57.347074] Downloaded app package (76.9M) (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:57.437324] -----> Nodejs Buildpack version 1.8.41 (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:57.978130] -----> Bootstrapping python (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:57.978142] -----> Installing python 3.11.14 (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:48:57.978277] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/c334a3cd7ccf4e78ab45ef5e33dcd936/python_3.11.14_linux_x64_cflinuxfs4_5d0a9d8b.tgz] (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:01.429660] -----> Installing binaries (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:01.429976] engines.node (package.json): >=20 (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:01.429999] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:01.430014] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:01.430017] -----> Installing node 24.10.0 (STDOUT, STG)#
+#2026 03 17 13:49:02.115#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71370#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:01.430206] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/76b43d53a24b11f13cf8c7ae8858e73f/node_24.10.0_linux_x64_cflinuxfs4_11fdc5e5.tgz] (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.568558] Using default npm version: 11.6.1 (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.568576] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.568719] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/e3a39aedd1236924d69cc2d0637a8ed2/yarn_1.22.22_linux_noarch_any-stack_4911d0a6.tgz] (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.865654] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.865675] -----> Creating runtime environment (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.867862] NODE_ENV=production (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.867884] NODE_HOME=/tmp/contents1905911084/deps/0/node (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.867887] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.867889] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.867891] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.867893] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.868067] -----> Building dependencies (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.868286] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:03.868302] Rebuilding any native modules (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.565794] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.567623] npm notice (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.567641] npm notice New minor version of npm available! 11.6.1 -> 11.11.1 (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.567646] npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.11.1 (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.567651] npm notice To update run: npm install -g npm@11.11.1 (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.567654] npm notice (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:10.650993] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:11.543081] removed 3 packages in 814ms (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:11.543400] 40 packages are looking for funding (STDOUT, STG)#
+#2026 03 17 13:49:12.388#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72955#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:11.543545] run `npm fund` for details (STDOUT, STG)#
+#2026 03 17 13:49:22.757#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72247#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:12.722022] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 03 17 13:49:33.264#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66077#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:32.248493] Exit status 0 (STDOUT, STG)#
+#2026 03 17 13:49:33.264#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66077#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:32.248535] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 03 17 13:49:33.264#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66077#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:32.248567] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 03 17 13:49:33.264#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66077#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:32.248597] Uploading droplet... (STDOUT, STG)#
+#2026 03 17 13:49:33.264#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66077#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:32.280075] Uploaded build artifacts cache (216B) (STDOUT, STG)#
+#2026 03 17 13:49:43.357#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-61200#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:33.740966] Creating droplet for app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:49:43.357#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-61200#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:35.878083] Uploaded droplet (139.1M) (STDOUT, STG)#
+#2026 03 17 13:49:43.357#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-61200#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:35.932486] Uploading complete (STDOUT, STG)#
+#2026 03 17 13:49:43.357#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-61200#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:36.357352] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 stopping instance e74742c3-6c5d-488b-af97-38421e9d99c6 (STDOUT, STG)#
+#2026 03 17 13:49:43.357#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-61200#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:36.357382] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 destroying container for instance e74742c3-6c5d-488b-af97-38421e9d99c6 (STDOUT, STG)#
+#2026 03 17 13:49:43.357#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-61200#
+[PollStageAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:38.700736] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 successfully destroyed container for instance e74742c3-6c5d-488b-af97-38421e9d99c6 (STDOUT, STG)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:43.498029] Updated app with guid 0f5b824e-db22-40f0-abab-31460280faf8 ({:droplet_guid=>"685c8d8e-4f6b-4001-939b-1d2fe6bcccda"}) (STDOUT, API)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:43.968632] Creating revision for app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:44.003630] Starting app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:44.301291] Cell 37342971-a056-463e-8aac-4b6a684ca4a5 creating container for instance 75b7aa75-cacf-4df5-6647-1ad0 (STDOUT, CELL)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:44.996576] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:45.080983] Cell 37342971-a056-463e-8aac-4b6a684ca4a5 successfully created container for instance 75b7aa75-cacf-4df5-6647-1ad0 (STDOUT, CELL)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:45.482621] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:51.556234] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:51.556778] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:51.653515] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:51.846743] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:52.218065] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:52.218091] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:52.227939] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:52.227962] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:49:53.597#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-71471#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:52.297298] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:03.734#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:58.982695] Cell 37342971-a056-463e-8aac-4b6a684ca4a5 stopping instance 75b7aa75-cacf-4df5-6647-1ad0 (STDOUT, CELL)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:58.982730] Cell 37342971-a056-463e-8aac-4b6a684ca4a5 destroying container for instance 75b7aa75-cacf-4df5-6647-1ad0 (STDOUT, CELL)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:58.989208] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:59.003459] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"75b7aa75-cacf-4df5-6647-1ad0", "index"=>0, "cell_id"=>"37342971-a056-463e-8aac-4b6a684ca4a5", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>1, "crash_timestamp"=>1773755398967279221, "version"=>"a8db3f96-d00d-4612-8f34-d802b04727c3"} (STDOUT, API)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:59.154359] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:59.236545] Cell fd18f55a-e550-43e2-bb5c-76b3eb26e002 creating container for instance f2989a2b-5b76-4557-4fa8-e3be (STDOUT, CELL)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:49:59.952177] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:00.021970] Cell fd18f55a-e550-43e2-bb5c-76b3eb26e002 successfully created container for instance f2989a2b-5b76-4557-4fa8-e3be (STDOUT, CELL)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:00.882783] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:50:03.735#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77010#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:00.947108] Cell 37342971-a056-463e-8aac-4b6a684ca4a5 successfully destroyed container for instance 75b7aa75-cacf-4df5-6647-1ad0 (STDOUT, CELL)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.063299] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.063465] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.168972] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.386783] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.752198] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.752225] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.763383] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.763410] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:50:13.906#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73064#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:07.842120] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:14.539803] Cell fd18f55a-e550-43e2-bb5c-76b3eb26e002 stopping instance f2989a2b-5b76-4557-4fa8-e3be (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:14.539839] Cell fd18f55a-e550-43e2-bb5c-76b3eb26e002 destroying container for instance f2989a2b-5b76-4557-4fa8-e3be (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:14.546467] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:14.562004] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"f2989a2b-5b76-4557-4fa8-e3be", "index"=>0, "cell_id"=>"fd18f55a-e550-43e2-bb5c-76b3eb26e002", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>2, "crash_timestamp"=>1773755414521746719, "version"=>"a8db3f96-d00d-4612-8f34-d802b04727c3"} (STDOUT, API)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:14.563296] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 creating container for instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:14.693661] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:15.309185] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:15.393906] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 successfully created container for instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:15.756994] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:16.530095] Cell fd18f55a-e550-43e2-bb5c-76b3eb26e002 successfully destroyed container for instance f2989a2b-5b76-4557-4fa8-e3be (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:21.858158] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:21.858369] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:21.970437] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:22.185980] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:22.581201] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:22.581230] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:22.590290] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:22.590319] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:50:24.127#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62326#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:22.662191] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:34.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73139#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.489719] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 stopping instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:34.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73139#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.489763] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 destroying container for instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:34.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73139#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.508578] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:50:34.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73139#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.520767] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"26f708ee-590a-47e4-66ed-ba4c", "index"=>0, "cell_id"=>"817783bc-133e-42d3-b667-c1eea15b2aa3", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755429486595533, "version"=>"a8db3f96-d00d-4612-8f34-d802b04727c3"} (STDOUT, API)#
+#2026 03 17 13:50:34.241#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73139#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.659718] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:50:34.241#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-73139#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:31.745879] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 successfully destroyed container for instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.489719] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 stopping instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.489763] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 destroying container for instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.508578] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.520767] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"26f708ee-590a-47e4-66ed-ba4c", "index"=>0, "cell_id"=>"817783bc-133e-42d3-b667-c1eea15b2aa3", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755429486595533, "version"=>"a8db3f96-d00d-4612-8f34-d802b04727c3"} (STDOUT, API)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:29.659718] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:31.745879] Cell 817783bc-133e-42d3-b667-c1eea15b2aa3 successfully destroyed container for instance 26f708ee-590a-47e4-66ed-ba4c (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:35.472329] Stopping app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:35.669604] Starting app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:35.833289] Cell 72db40ae-8192-4f77-a8b5-be35f6790509 creating container for instance 07e0fcc1-bc2d-4436-5bce-cd86 (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:36.504210] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:36.575122] Cell 72db40ae-8192-4f77-a8b5-be35f6790509 successfully created container for instance 07e0fcc1-bc2d-4436-5bce-cd86 (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:37.161825] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.334689] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.334879] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.430196] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.608772] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.976219] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.976237] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.986792] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:43.986804] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:50:44.779#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72438#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:44.070482] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:51.217614] Cell 72db40ae-8192-4f77-a8b5-be35f6790509 stopping instance 07e0fcc1-bc2d-4436-5bce-cd86 (STDOUT, CELL)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:51.217700] Cell 72db40ae-8192-4f77-a8b5-be35f6790509 destroying container for instance 07e0fcc1-bc2d-4436-5bce-cd86 (STDOUT, CELL)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:51.225102] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:51.241852] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"07e0fcc1-bc2d-4436-5bce-cd86", "index"=>0, "cell_id"=>"72db40ae-8192-4f77-a8b5-be35f6790509", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>1, "crash_timestamp"=>1773755451201134262, "version"=>"6bbb6b44-c172-442b-b0bc-497476b83330"} (STDOUT, API)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:51.422364] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:51.486982] Cell 5164b10f-f92f-4372-a496-2393c21f772b creating container for instance d9b4bb68-3c98-4201-7752-2ee8 (STDOUT, CELL)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:52.248439] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:52.351250] Cell 5164b10f-f92f-4372-a496-2393c21f772b successfully created container for instance d9b4bb68-3c98-4201-7752-2ee8 (STDOUT, CELL)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:52.927080] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:50:54.936#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75081#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:53.465469] Cell 72db40ae-8192-4f77-a8b5-be35f6790509 successfully destroyed container for instance 07e0fcc1-bc2d-4436-5bce-cd86 (STDOUT, CELL)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.179868] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.179998] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.288677] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.480924] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.872844] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.872885] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.882189] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.882229] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:05.255#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75130#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:50:59.961013] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:06.439259] Cell 5164b10f-f92f-4372-a496-2393c21f772b stopping instance d9b4bb68-3c98-4201-7752-2ee8 (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:06.439308] Cell 5164b10f-f92f-4372-a496-2393c21f772b destroying container for instance d9b4bb68-3c98-4201-7752-2ee8 (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:06.442541] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:06.454079] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"d9b4bb68-3c98-4201-7752-2ee8", "index"=>0, "cell_id"=>"5164b10f-f92f-4372-a496-2393c21f772b", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>2, "crash_timestamp"=>1773755466420303080, "version"=>"6bbb6b44-c172-442b-b0bc-497476b83330"} (STDOUT, API)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:06.511043] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 creating container for instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:06.615943] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:07.186072] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:07.274474] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 successfully created container for instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:07.637084] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:08.645948] Cell 5164b10f-f92f-4372-a496-2393c21f772b successfully destroyed container for instance d9b4bb68-3c98-4201-7752-2ee8 (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:13.826496] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:13.826678] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:13.919559] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:14.124699] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:14.479430] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:14.479445] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:14.489614] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:14.489639] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:16.785#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72553#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:14.553275] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:26.774#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66825#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.671333] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 stopping instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:26.774#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66825#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.671368] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 destroying container for instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:26.774#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66825#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.694877] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:51:26.774#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66825#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.711251] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"4f0c2c70-8bd2-438a-625c-5a5c", "index"=>0, "cell_id"=>"295000d7-d9c5-4834-ad93-c532a76ed553", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755480668415468, "version"=>"6bbb6b44-c172-442b-b0bc-497476b83330"} (STDOUT, API)#
+#2026 03 17 13:51:26.774#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66825#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.845928] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:51:26.774#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66825#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:22.780176] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 successfully destroyed container for instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.671333] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 stopping instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.671368] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 destroying container for instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.694877] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.711251] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"4f0c2c70-8bd2-438a-625c-5a5c", "index"=>0, "cell_id"=>"295000d7-d9c5-4834-ad93-c532a76ed553", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755480668415468, "version"=>"6bbb6b44-c172-442b-b0bc-497476b83330"} (STDOUT, API)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:20.845928] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:22.780176] Cell 295000d7-d9c5-4834-ad93-c532a76ed553 successfully destroyed container for instance 4f0c2c70-8bd2-438a-625c-5a5c (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:29.455308] Stopping app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:29.915573] Starting app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:30.077732] Cell ac097e3d-0e27-45f5-9d49-0c9795ef6be8 creating container for instance e14aa751-6915-4730-6c4c-5dca (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:30.840851] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:30.915641] Cell ac097e3d-0e27-45f5-9d49-0c9795ef6be8 successfully created container for instance e14aa751-6915-4730-6c4c-5dca (STDOUT, CELL)#
+#2026 03 17 13:51:37.445#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-62641#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:31.618939] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:37.866755] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:37.866902] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:37.974219] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:38.156758] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:38.520676] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:38.520714] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:38.530199] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:38.530234] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:38.599455] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:45.132851] Cell ac097e3d-0e27-45f5-9d49-0c9795ef6be8 stopping instance e14aa751-6915-4730-6c4c-5dca (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:45.132886] Cell ac097e3d-0e27-45f5-9d49-0c9795ef6be8 destroying container for instance e14aa751-6915-4730-6c4c-5dca (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:45.140351] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:45.155189] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"e14aa751-6915-4730-6c4c-5dca", "index"=>0, "cell_id"=>"ac097e3d-0e27-45f5-9d49-0c9795ef6be8", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>1, "crash_timestamp"=>1773755505115036599, "version"=>"c815e654-65d8-41b0-9bf9-791acdd5ebe9"} (STDOUT, API)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:45.303026] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:45.383302] Cell 906ec342-38ae-4879-8352-1e25fa822edd creating container for instance 4e99f289-b5ee-414e-5b7c-2f79 (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:46.033371] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:46.106759] Cell 906ec342-38ae-4879-8352-1e25fa822edd successfully created container for instance 4e99f289-b5ee-414e-5b7c-2f79 (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:46.481669] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:51:47.556#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77475#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:47.174621] Cell ac097e3d-0e27-45f5-9d49-0c9795ef6be8 successfully destroyed container for instance e14aa751-6915-4730-6c4c-5dca (STDOUT, CELL)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:52.529010] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:52.529124] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:52.632838] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:52.843865] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:53.201399] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:53.201431] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:53.210238] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:53.210265] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:51:58.258#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75322#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:53.279374] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:59.646864] Cell 906ec342-38ae-4879-8352-1e25fa822edd stopping instance 4e99f289-b5ee-414e-5b7c-2f79 (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:59.646904] Cell 906ec342-38ae-4879-8352-1e25fa822edd destroying container for instance 4e99f289-b5ee-414e-5b7c-2f79 (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:59.653373] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:59.664207] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"4e99f289-b5ee-414e-5b7c-2f79", "index"=>0, "cell_id"=>"906ec342-38ae-4879-8352-1e25fa822edd", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>2, "crash_timestamp"=>1773755519632408565, "version"=>"c815e654-65d8-41b0-9bf9-791acdd5ebe9"} (STDOUT, API)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:59.718018] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 creating container for instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:51:59.809731] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:00.473888] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:00.557926] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 successfully created container for instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:00.814964] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:01.627253] Cell 906ec342-38ae-4879-8352-1e25fa822edd successfully destroyed container for instance 4e99f289-b5ee-414e-5b7c-2f79 (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:06.936897] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:06.936977] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.046368] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.264746] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.637008] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.637022] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.647264] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.647286] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:52:08.600#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-66982#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:07.730757] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:19.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72015#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.806800] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 stopping instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:19.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72015#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.806836] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 destroying container for instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:19.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72015#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.826571] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:52:19.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72015#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.846801] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"95f80958-4bb1-401c-6734-9e6e", "index"=>0, "cell_id"=>"102bdd0e-c272-464c-b731-0dd42ddbb7c6", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755533803429663, "version"=>"c815e654-65d8-41b0-9bf9-791acdd5ebe9"} (STDOUT, API)#
+#2026 03 17 13:52:19.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72015#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:14.002236] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:52:19.240#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72015#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:15.891124] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 successfully destroyed container for instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.806800] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 stopping instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.806836] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 destroying container for instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.826571] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:13.846801] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"95f80958-4bb1-401c-6734-9e6e", "index"=>0, "cell_id"=>"102bdd0e-c272-464c-b731-0dd42ddbb7c6", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755533803429663, "version"=>"c815e654-65d8-41b0-9bf9-791acdd5ebe9"} (STDOUT, API)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:14.002236] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:15.891124] Cell 102bdd0e-c272-464c-b731-0dd42ddbb7c6 successfully destroyed container for instance 95f80958-4bb1-401c-6734-9e6e (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:21.565894] Stopping app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:21.758237] Starting app with guid 0f5b824e-db22-40f0-abab-31460280faf8 (STDOUT, API)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:21.931566] Cell 38a9d497-cb17-4d46-9d6b-2b56dc704e3e creating container for instance c42c4a5e-0151-48cf-6eb8-e523 (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:22.626666] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:22.713095] Cell 38a9d497-cb17-4d46-9d6b-2b56dc704e3e successfully created container for instance c42c4a5e-0151-48cf-6eb8-e523 (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:22.782882] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:28.902852] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:28.902957] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:52:29.340#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77674#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.015847] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:40.121#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.199667] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.555465] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.555484] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.565365] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.565382] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:29.635971] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:36.655843] Cell 38a9d497-cb17-4d46-9d6b-2b56dc704e3e stopping instance c42c4a5e-0151-48cf-6eb8-e523 (STDOUT, CELL)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:36.655890] Cell 38a9d497-cb17-4d46-9d6b-2b56dc704e3e destroying container for instance c42c4a5e-0151-48cf-6eb8-e523 (STDOUT, CELL)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:36.662296] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:36.679648] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"c42c4a5e-0151-48cf-6eb8-e523", "index"=>0, "cell_id"=>"38a9d497-cb17-4d46-9d6b-2b56dc704e3e", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>1, "crash_timestamp"=>1773755556640341944, "version"=>"7ae43001-0d82-440b-8c2f-0e8d0a65a5c8"} (STDOUT, API)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:36.736804] Cell 8ba0ad4b-5912-42e5-9c39-c954fe4ac47f creating container for instance 6d93284e-699b-4862-5aa0-94a0 (STDOUT, CELL)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:36.852431] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:37.471686] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:37.553371] Cell 8ba0ad4b-5912-42e5-9c39-c954fe4ac47f successfully created container for instance 6d93284e-699b-4862-5aa0-94a0 (STDOUT, CELL)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:37.843992] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:52:40.122#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72149#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:38.652779] Cell 38a9d497-cb17-4d46-9d6b-2b56dc704e3e successfully destroyed container for instance c42c4a5e-0151-48cf-6eb8-e523 (STDOUT, CELL)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:43.735335] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:43.735465] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:43.834823] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:44.040281] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:44.400214] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:44.400225] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:44.411071] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:44.411084] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:52:50.546#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-75627#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:44.483502] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:51.506244] Cell 8ba0ad4b-5912-42e5-9c39-c954fe4ac47f stopping instance 6d93284e-699b-4862-5aa0-94a0 (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:51.506274] Cell 8ba0ad4b-5912-42e5-9c39-c954fe4ac47f destroying container for instance 6d93284e-699b-4862-5aa0-94a0 (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:51.514097] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:51.526478] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"6d93284e-699b-4862-5aa0-94a0", "index"=>0, "cell_id"=>"8ba0ad4b-5912-42e5-9c39-c954fe4ac47f", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>2, "crash_timestamp"=>1773755571490844746, "version"=>"7ae43001-0d82-440b-8c2f-0e8d0a65a5c8"} (STDOUT, API)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:51.571341] Cell ff9adc8f-659f-4ec8-9e30-868c238e2faa creating container for instance 50da5686-a53c-4f73-6f2c-5a2c (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:51.722669] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:52.187298] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:52.261139] Cell ff9adc8f-659f-4ec8-9e30-868c238e2faa successfully created container for instance 50da5686-a53c-4f73-6f2c-5a2c (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:53.827603] Downloading droplet... (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:53.933609] Cell 8ba0ad4b-5912-42e5-9c39-c954fe4ac47f successfully destroyed container for instance 6d93284e-699b-4862-5aa0-94a0 (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:59.767631] Downloaded droplet (139.1M) (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:59.767749] Starting health monitoring of container (STDOUT, CELL)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:52:59.859878] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:00.066081] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:00.411367] > tutorial@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:00.411392] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:00.420164] /home/vcap/app/node_modules/.bin/node: 1: MZx@x��: not found (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:53:00.715#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-72230#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:00.420186] /home/vcap/app/node_modules/.bin/node: 1: Syntax error: word unexpected (expecting ")") (STDERR, APP/PROC/WEB)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:00.488781] Exit status 2 (STDOUT, APP/PROC/WEB)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:06.851595] Cell ff9adc8f-659f-4ec8-9e30-868c238e2faa stopping instance 50da5686-a53c-4f73-6f2c-5a2c (STDOUT, CELL)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:06.851629] Cell ff9adc8f-659f-4ec8-9e30-868c238e2faa destroying container for instance 50da5686-a53c-4f73-6f2c-5a2c (STDOUT, CELL)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:06.869556] Process has crashed with type: "web" (STDOUT, API)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:06.880727] App instance exited with guid 0f5b824e-db22-40f0-abab-31460280faf8 payload: {"instance"=>"50da5686-a53c-4f73-6f2c-5a2c", "index"=>0, "cell_id"=>"ff9adc8f-659f-4ec8-9e30-868c238e2faa", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 2", "crash_count"=>3, "crash_timestamp"=>1773755586848113573, "version"=>"7ae43001-0d82-440b-8c2f-0e8d0a65a5c8"} (STDOUT, API)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:07.063873] Exit status 137 (STDOUT, PROXY)#
+#2026 03 17 13:53:11.772#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-srv#flowable-async-job-executor-thread-77874#
+[PollStartAppStatusExecution] 0f5b824e-db22-40f0-abab-31460280faf8 [2026-03-17T13:53:08.711589] Cell ff9adc8f-659f-4ec8-9e30-868c238e2faa successfully destroyed container for instance 50da5686-a53c-4f73-6f2c-5a2c (STDOUT, CELL)#

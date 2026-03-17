@@ -1,0 +1,10 @@
+{
+  "xsappname": "tutorial",
+  "tenant-mode": "dedicated",
+  "oauth2-configuration": {
+    "redirect-uris": []
+  },
+  "scopes": [],
+  "attributes": [],
+  "role-templates": []
+}

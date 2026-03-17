@@ -1,0 +1,39 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4",
+    "node": "^25.8.1"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2",
+    "@sap/cds-dk": "^9",
+    "cds-plugin-ui5": "^0.13.0",
+    "eslint": "^10.0.3"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch-tutelem": "cds watch --open tutelem/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "watch-tutui5": "cds watch --open tutui5/index.html?sap-ui-xx-viewCache=false --livereload false"
+  },
+  "private": true,
+  "workspaces": [
+    "app/*"
+  ],
+  "sapux": [
+    "app/tutelem"
+  ],
+  "cds": {
+    "requires": {
+      "[production]": {
+        "db": "hana",
+        "auth": "xsuaa"
+      },
+      "html5-repo": true,
+      "destinations": true,
+      "workzone": true
+    }
+  }
+}

@@ -1,0 +1,550 @@
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.325938] Added process: "web" (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.336780] Created app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.449196] Updating process: "web" (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.521417] Scaling process: "web" (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:31.984302] Uploading app package for app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:32.270453] Updated app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:41.851765] Creating build for app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.062448] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.091140] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.091270] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 creating container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.849536] Security group rules were updated (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.943614] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 successfully created container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.177566] Downloading app package... (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.512886] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.607650] -----> Nodejs Buildpack version 1.8.41 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.699057] -----> Bootstrapping python (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.699090] -----> Installing python 3.11.14 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.699222] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/c334a3cd7ccf4e78ab45ef5e33dcd936/python_3.11.14_linux_x64_cflinuxfs4_5d0a9d8b.tgz] (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534545] -----> Installing binaries (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534705] engines.node (package.json): >=18 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534731] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534741] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534877] -----> Installing node 24.10.0 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534987] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/76b43d53a24b11f13cf8c7ae8858e73f/node_24.10.0_linux_x64_cflinuxfs4_11fdc5e5.tgz] (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:50.903701] Using default npm version: 11.6.1 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:50.903730] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:50.903819] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/e3a39aedd1236924d69cc2d0637a8ed2/yarn_1.22.22_linux_noarch_any-stack_4911d0a6.tgz] (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.239636] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.239658] -----> Creating runtime environment (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241499] NODE_ENV=production (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241518] NODE_HOME=/tmp/contents1663406441/deps/0/node (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241522] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241524] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241527] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241542] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241557] -----> Building dependencies (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241560] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 03 17 13:48:52.055#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-61936#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241596] Rebuilding any native modules (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.807301] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.881555] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.366134] up to date in 407ms (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.366448] 4 packages are looking for funding (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.366577] run `npm fund` for details (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.933468] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048117] Exit status 0 (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048168] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048199] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048241] Uploading droplet... (STDOUT, STG)#
+#2026 03 17 13:49:02.341#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72934#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.070319] Uploaded build artifacts cache (216B) (STDOUT, STG)#
+#2026 03 17 13:49:12.508#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-74777#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.701254] Creating droplet for app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:49:12.508#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-74777#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:04.774369] Uploaded droplet (60.8M) (STDOUT, STG)#
+#2026 03 17 13:49:12.508#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-74777#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:04.797507] Uploading complete (STDOUT, STG)#
+#2026 03 17 13:49:12.508#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-74777#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:05.378976] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 stopping instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:12.508#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-74777#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:05.379010] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 destroying container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:12.508#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-74777#
+[PollStageAppStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:07.468190] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 successfully destroyed container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.325938] Added process: "web" (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.336780] Created app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.449196] Updating process: "web" (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:05.521417] Scaling process: "web" (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:31.984302] Uploading app package for app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:32.270453] Updated app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:41.851765] Creating build for app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.062448] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.091140] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.091270] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 creating container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.849536] Security group rules were updated (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:43.943614] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 successfully created container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.177566] Downloading app package... (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.512886] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.607650] -----> Nodejs Buildpack version 1.8.41 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.699057] -----> Bootstrapping python (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.699090] -----> Installing python 3.11.14 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:44.699222] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/c334a3cd7ccf4e78ab45ef5e33dcd936/python_3.11.14_linux_x64_cflinuxfs4_5d0a9d8b.tgz] (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534545] -----> Installing binaries (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534705] engines.node (package.json): >=18 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534731] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534741] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534877] -----> Installing node 24.10.0 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:48.534987] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/76b43d53a24b11f13cf8c7ae8858e73f/node_24.10.0_linux_x64_cflinuxfs4_11fdc5e5.tgz] (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:50.903701] Using default npm version: 11.6.1 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:50.903730] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:50.903819] Copy [/tmp/buildpacks/8e6044fb00557f20/dependencies/e3a39aedd1236924d69cc2d0637a8ed2/yarn_1.22.22_linux_noarch_any-stack_4911d0a6.tgz] (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.239636] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.239658] -----> Creating runtime environment (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241499] NODE_ENV=production (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241518] NODE_HOME=/tmp/contents1663406441/deps/0/node (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241522] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241524] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241527] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241542] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241557] -----> Building dependencies (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241560] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.241596] Rebuilding any native modules (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.807301] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:51.881555] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.366134] up to date in 407ms (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.366448] 4 packages are looking for funding (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.366577] run `npm fund` for details (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:48:52.933468] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048117] Exit status 0 (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048168] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048199] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.048241] Uploading droplet... (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.070319] Uploaded build artifacts cache (216B) (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:02.701254] Creating droplet for app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:04.774369] Uploaded droplet (60.8M) (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:04.797507] Uploading complete (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:05.378976] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 stopping instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:05.379010] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 destroying container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:07.468190] Cell 0e26d872-fa9b-4d6b-8921-208ae32616b7 successfully destroyed container for instance 39a507a8-c950-4570-bd60-92979526177b (STDOUT, STG)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:12.650847] Updated app with guid 547a7e90-00f1-4690-a147-5a07cb11b23a ({:droplet_guid=>"3ee1dace-dd98-439c-ac1e-6c6e2ca8c95d"}) (STDOUT, API)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:13.305685] Cell f17d4b90-2b92-42c9-8228-679e00235a2f creating container for instance 7eb9f58d-2ff4-4d1f-b820-364c3b2c0520 (STDOUT, CELL)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:13.951257] Security group rules were updated (STDOUT, CELL)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:14.031633] Cell f17d4b90-2b92-42c9-8228-679e00235a2f successfully created container for instance 7eb9f58d-2ff4-4d1f-b820-364c3b2c0520 (STDOUT, CELL)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:17.672570] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:17.835049] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.187883] > start (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.187909] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312290] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312416] { (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312437] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312440] { (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312443] "name": "tutorial-db", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312446] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312449] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312451] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312454] "schema": "F5A2A8A3A6074910B009B22E32CDC4E2", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312456] "database_id": "dc163105-b3e1-47ef-bfe3-65dcfb2a0dbc", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312459] "user": "F5A2A8A3A6074910B009B22E32CDC4E2_3N2LZ04D37RYXCKW6GU40Q39M_RT", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312461] "hdi_user": "F5A2A8A3A6074910B009B22E32CDC4E2_3N2LZ04D37RYXCKW6GU40Q39M_DT" (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312463] }, (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312468] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312472] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312474] "database", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312478] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312481] ] (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312487] } (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312490] ] (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.312492] } (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.732570] @sap/hdi-deploy, version 5.6.1 (mode default), server version 4.00.000.00.1773137201 (4.0.0.0), cloud version 2025.40.17, node version 24.10.0, HDI version 1016, container API version 1007 (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.732833] Deployment started at 2026-03-17 13:49:18 (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.733804] Using hdb@2.27.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.750815] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.751016] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.753330] Collecting files... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.753376] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.753379] 7 files collected (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.753393] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:18.753395] Target service: tutorial-db (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.044686] Could not determine status of last build: Could not find any information about the previous deployment. (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.044834] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.044975] Processing revoke files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.045148] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.045258] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.047860] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.047982] Preprocessing files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.048076] Connecting to the container "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.136140] Connecting to the container "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (0s 88ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.136155] Locking the container "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.330362] Locking the container "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (0s 194ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.330384] Synchronizing files with the container "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.528878] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.666215] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.666228] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.666341] Writing 10 items (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.954650] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.954795] Synchronizing files with the container "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (0s 624ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955184] added files: [ (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955208] "src/gen/.hdiconfig", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955212] "src/gen/.hdinamespace", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955216] "src/gen/CatalogService.Books.hdbview", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955218] "src/gen/cds.outbox.Messages.hdbtable", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955219] "src/gen/data/my.bookshop-Books.csv", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955221] "src/gen/data/my.bookshop-Books.hdbtabledata", (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955223] "src/gen/my.bookshop.Books.hdbtable" (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955227] ] (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955229] modified files: [] (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955230] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955336] 7 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955530] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955689] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955705] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:19.955810] Deploying to the container "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.586874] Polling messages for request id: 14 (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.613979] Starting make in the container "F5A2A8A3A6074910B009B22E32CDC4E2" with 7 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614008] Disabling table replication for the container schema "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614014] Disabling table replication for the container schema "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614018] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614029] Migrating libraries... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614053] Making... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614055] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:20.614057] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599738] Preparing the make transaction... ok (0s 358ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599757] Deploying the configuration file "src/gen/.hdiconfig"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599760] Deploying the configuration file "src/gen/.hdiconfig"... ok (0s 34ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599763] Deploying the namespace file "src/gen/.hdinamespace"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599765] Deploying the namespace file "src/gen/.hdinamespace"... ok (0s 21ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599767] Adding "src/gen/CatalogService.Books.hdbview" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599769] Adding "src/gen/CatalogService.Books.hdbview" for deploy... ok (0s 22ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599771] Adding "src/gen/cds.outbox.Messages.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599773] Adding "src/gen/cds.outbox.Messages.hdbtable" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599775] Adding "src/gen/data/my.bookshop-Books.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599777] Adding "src/gen/data/my.bookshop-Books.csv" for deploy... ok (0s 34ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599779] Adding "src/gen/data/my.bookshop-Books.hdbtabledata" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599784] Adding "src/gen/data/my.bookshop-Books.hdbtabledata" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599786] Adding "src/gen/my.bookshop.Books.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599788] Adding "src/gen/my.bookshop.Books.hdbtable" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599790] Preparing... ok (0s 508ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599792] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599794] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599796] Expanding "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599798] Expanding "src/gen/data/my.bookshop-Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599803] Expanding "src/gen/CatalogService.Books.hdbview"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599805] Expanding "src/gen/my.bookshop.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599807] Expanding "src/gen/data/my.bookshop-Books.hdbtabledata"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599809] Expanding "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599812] Expanding "src/gen/my.bookshop.Books.hdbtable"... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599814] Expanding "src/gen/CatalogService.Books.hdbview"... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599829] Expanding... ok (0s 33ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599833] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599835] Precompiling "src/gen/CatalogService.Books.hdbview"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599837] Precompiling "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.599839] Precompiling "src/gen/data/my.bookshop-Books.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600348] Precompiling "src/gen/data/my.bookshop-Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600360] Precompiling "src/gen/data/my.bookshop-Books.hdbtabledata"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600365] Precompiling "src/gen/data/my.bookshop-Books.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600367] Expanded from "src/gen/data/my.bookshop-Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600371] Precompiling "src/gen/data/my.bookshop-Books.hdbtabledata$0.expand"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600373] Precompiling "src/gen/my.bookshop.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600375] Precompiling "src/gen/data/my.bookshop-Books.csv"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600377] Precompiling "src/gen/CatalogService.Books.hdbview"... ok (0s 4ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600378] Precompiling "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600380] Precompiling "src/gen/my.bookshop.Books.hdbtable"... ok (0s 4ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600384] Precompiling... ok (0s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600386] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600409] Merging... ok (0s 16ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600414] Calculating dependencies... ok (0s 63ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600417] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600418] Deploying "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600419] Deploying "src/gen/data/my.bookshop-Books.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600421] Deploying "src/gen/data/my.bookshop-Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600423] Deploying "src/gen/data/my.bookshop-Books.hdbtabledata"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600424] Deploying "src/gen/my.bookshop.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600426] Deploying "src/gen/data/my.bookshop-Books.csv"... ok (0s 141ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600428] Deploying "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 149ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600429] Deploying "src/gen/my.bookshop.Books.hdbtable"... ok (0s 153ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600431] Deploying "src/gen/data/my.bookshop-Books.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600432] Expanded from "src/gen/data/my.bookshop-Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600436] Inserted 2 records of the data source file "my.bookshop-Books.csv" into the target table "MY_BOOKSHOP_BOOKS" (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600438] Deploying "src/gen/data/my.bookshop-Books.hdbtabledata$0.expand"... ok (0s 407ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600439] Deploying "src/gen/CatalogService.Books.hdbview"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600440] Deploying "src/gen/CatalogService.Books.hdbview"... ok (0s 31ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600442] Processing work list... ok (0s 601ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600444] Finalizing... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600445] Finalizing... ok (0s 68ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600447] Make succeeded (0 warnings): 7 files deployed (effective 8), 0 files undeployed (effective 0), 0 dependent files redeployed (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600449] Making... ok (1s 368ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600450] Enabling table replication for the container schema "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600453] Enabling table replication for the container schema "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600456] Starting make in the container "F5A2A8A3A6074910B009B22E32CDC4E2" with 7 files to deploy, 0 files to undeploy... ok (1s 409ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600458] Deploying to the container "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (1s 644ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600518] No default-access-role handling needed; global role "F5A2A8A3A6074910B009B22E32CDC4E2::access_role" will not be adapted (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.600620] Unlocking the container "F5A2A8A3A6074910B009B22E32CDC4E2"... (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.601174] Unlocking the container "F5A2A8A3A6074910B009B22E32CDC4E2"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.601316] Deployment to container F5A2A8A3A6074910B009B22E32CDC4E2 done [Deployment ID: none]. (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.601918] Deployment ended at 2026-03-17 13:49:21 (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.602225] (3s 378ms) (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.616716] npm notice (STDERR, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.616732] npm notice New minor version of npm available! 11.6.1 -> 11.11.1 (STDERR, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.616739] npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.11.1 (STDERR, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.616741] npm notice To update run: npm install -g npm@11.11.1 (STDERR, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.616743] npm notice (STDERR, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:21.692112] Exit status 0 (STDOUT, APP/TASK/deploy)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:22.242883] Cell f17d4b90-2b92-42c9-8228-679e00235a2f stopping instance 7eb9f58d-2ff4-4d1f-b820-364c3b2c0520 (STDOUT, CELL)#
+#2026 03 17 13:49:22.979#Z#DEBUG#dde23164-2207-11f1-a1fb-eeee0a988291.tutorial-db-deployer#flowable-async-job-executor-thread-72253#
+[PollExecuteTaskStatusExecution] 547a7e90-00f1-4690-a147-5a07cb11b23a [2026-03-17T13:49:22.242910] Cell f17d4b90-2b92-42c9-8228-679e00235a2f destroying container for instance 7eb9f58d-2ff4-4d1f-b820-364c3b2c0520 (STDOUT, CELL)#
