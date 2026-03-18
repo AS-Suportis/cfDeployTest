@@ -1,5 +1,9 @@
 using my.bookshop as my from '../db/schema';
 
-service CatalogService {
+service CatalogService @(requires: 'user') {
     @readonly entity Books as projection on my.Books;
+}
+
+service AdminService @(requires: 'admin') {
+    entity Books as projection on my.Books;
 }

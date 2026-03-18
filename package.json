@@ -5,31 +5,60 @@
     "@cap-js/hana": "^2",
     "@sap/cds": "^9",
     "@sap/xssec": "^4",
-    "node": "^25.8.1"
+    "mbt": "^1.2.43"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^2",
     "@sap/cds-dk": "^9",
     "cds-plugin-ui5": "^0.13.0",
-    "eslint": "^10.0.3"
+    "rimraf": "^5.0.5",
+    "mbt": "^1.2.29"
   },
   "scripts": {
     "start": "cds-serve",
     "watch-tutelem": "cds watch --open tutelem/index.html?sap-ui-xx-viewCache=false --livereload false",
-    "watch-tutui5": "cds watch --open tutui5/index.html?sap-ui-xx-viewCache=false --livereload false"
+    "watch-tutui5": "cds watch --open tutui5/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "watch-tutadmin": "cds watch --open tutadmin/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "undeploy": "cf undeploy tutorial --delete-services --delete-service-keys --delete-service-brokers",
+    "build": "rimraf resources mta_archives && mbt build --mtar archive",
+    "deploy": "cf deploy mta_archives/archive.mtar --retries 1"
   },
   "private": true,
   "workspaces": [
     "app/*"
   ],
   "sapux": [
-    "app/tutelem"
+    "app/tutelem",
+    "app/tutadmin",
+    "app/tutadmin"
   ],
   "cds": {
     "requires": {
       "[production]": {
-        "db": "hana",
-        "auth": "xsuaa"
+        "db": "hana"
+      },
+      "auth": {
+        "[development]": {
+          "kind": "mocked",
+          "users": {
+            "admin": {
+              "password": "admin",
+              "roles": [
+                "admin",
+                "user"
+              ]
+            },
+            "user": {
+              "password": "user",
+              "roles": [
+                "user"
+              ]
+            }
+          }
+        },
+        "[production]": {
+          "kind": "xsuaa"
+        }
       },
       "html5-repo": true,
       "destinations": true,
